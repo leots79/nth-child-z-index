@@ -1,0 +1,47 @@
+body{
+    background: #00224D  ;
+    color: #FFC18E
+    
+}
+
+div{
+    width: 600px;
+}
+
+#rosa{
+    position: relative;
+    color: antiquewhite;
+    top: 80px;
+    left: 200px;
+    width: 400px;
+    z-index: 1;
+}
+
+div:nth-child(2){
+    background: #CA4E79;
+    width: 600px;
+}
+
+li{
+    color: #1b191b;
+}
+
+li:nth-child(1){
+    background: #FFBBCC;
+}
+
+li:nth-child(2){
+    background: #FFCCCC;
+}
+
+li:nth-child(3){
+    background: #FFEECC;
+}
+
+li:nth-child(4){
+    background: #FFDDCC;
+}
+
+img{
+    width: 150px;
+}
